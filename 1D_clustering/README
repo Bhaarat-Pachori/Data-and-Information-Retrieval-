@@ -1,0 +1,4 @@
+Problem statement:
+Given a data set of 2 attributes Force(N) and Deflection(mm) we have to make clusters of Cantaloupes (or Melons) in three categories namely Ripe, UnRipe and Rotten melons.
+
+This python code implements the Otsu's method of finding threshold for any given function. This solution basically works upon a simulated data set of Cantaloupes. This method helps in making clusters in 1 dimension by normalizating the two given attributes which are Force(N) and Deflection(mm) in to one dimension i.e. Force/Deflection called as flexibility coefiicient.
